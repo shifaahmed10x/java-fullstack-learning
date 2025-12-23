@@ -1,4 +1,4 @@
-// TODO: Define custom exception InvalidAgeException extending Exception
+package udemy;
 class InvalidAgeException extends Exception{
     public InvalidAgeException(String message){
         super(message);
